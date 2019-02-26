@@ -1,0 +1,20 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Ashwath Bhat L
+tagline:             ': Optimized Awesomeness'
+description:         'Programming · Books · Songs'
+url:                 https://ashwathbhat.github.io/blog
+paginate:            5
+
+author:
+  name:              Ashwath Bhat L
+
+# Contact Details
+contact:
+  github:            https://github.com/ashwathbhat
+  email:             ashwathb.nitk20@gmail.com
+
+# Custom vars
+version:             1.0.0

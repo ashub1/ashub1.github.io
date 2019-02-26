@@ -1,2 +1,3 @@
-# ashub1.github.io
-ashub1.github.io
+# Personal Blog
+
+This blog is started to track progess.
